@@ -1,7 +1,7 @@
 재생 주소 : https://github아이디.github.io/Repository이름/valentine_2020.html
 재생 주소 : https://github아이디.github.io/Repository이름/campaigns/valentine_present/show_flash_present_chocolate/2020/196.html
 
-이 주소 아이디랑 repository이름에 맞게 바꿔서 누르면 재생됨<br>여기서 <>Code 위에 보면 아이디/repository순서로 나와있음
+이 주소 아이디랑 repository이름에 맞게 바꿔서 누르면 재생됨<br>↑저기서 <>Code 위에 보면 아이디/repository순서로 나와있음
 
 ------------------------------------------
 
